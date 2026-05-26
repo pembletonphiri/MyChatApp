@@ -117,7 +117,7 @@ public class Main {
                         break;
                     }
 
-                    // Generate Message ID
+                    // Generate Message Id
                     msg.generateMessageID();
 
                     // Display Message ID
