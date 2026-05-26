@@ -88,7 +88,7 @@ public class Main {
 
                     input.nextLine();
 
-                    System.out.print("Enter recipient number: ");
+                    System.out.print("Enter recipients number: ");
                     msg.recipient = input.nextLine();
 
                     if (msg.checkRecipientCell()) {
