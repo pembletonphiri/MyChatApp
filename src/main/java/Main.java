@@ -35,7 +35,7 @@ public class Main {
         } else {
 
             System.out.println(
-                    "Password is not correctly formatted; please ensure that the password contains at least eight characters, a capital letter, a number, and a special character.");
+                    "Password is not correctly formatted; please make sure that the password contains at least eight characters, a capital letter, a number, and a special character.");
         }
 
         // CELLPHONE
