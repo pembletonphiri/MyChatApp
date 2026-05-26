@@ -63,7 +63,7 @@ public class Main {
         System.out.print("Enter password: ");
         user.enteredPassword = input.nextLine();
 
-        // LOGIN RESULT
+        // LOGIN RESULTS
         System.out.println(user.returnLoginStatus());
 
         // SHOW MENU ONLY IF LOGIN IS SUCCESSFUL
