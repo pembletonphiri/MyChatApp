@@ -144,7 +144,7 @@ public class Main {
                         msg.storeMessageToJSON();
                     }
 
-                    // Show message details only if sent
+                    // please Show message details only if sent
                     if (messageChoice == 1) {
 
                         System.out.println("\n=== MESSAGE DETAILS ===");
