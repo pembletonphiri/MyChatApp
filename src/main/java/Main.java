@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("=== QUICKCHAT REGISTRATION ===");
 
-        // Username details
+        // username
         System.out.print("Enter username: ");
         user.username = input.nextLine();
 
