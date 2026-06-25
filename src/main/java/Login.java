@@ -7,7 +7,7 @@ public class Login {
     String enteredUsername;
     String enteredPassword;
 
-    // Username validation
+    // Username validationssss
     public boolean checkUserName() {
 
         if (username.contains("_") && username.length() <= 5) {
